@@ -1,4 +1,4 @@
 baseURL = 'https://romarodra.github.io/fleetingwords/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'hugo-flex'
+theme = 'tailwind'
